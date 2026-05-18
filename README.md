@@ -43,12 +43,3 @@ npm start
 Depois, em outro terminal, suba o `gabio-client` como acima.
 
 Contas de teste: **1001**, **1002**, **1003**.
-
----
-
-## Integrantes
-
-| Grupo | Integrantes | Papel    |
-|-------|-------------|----------|
-| —     | —           | Frontend |
-| —     | —           | Backend  |
